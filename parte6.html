@@ -1,43 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Bateria Externa</title>
 </head>
 
 <style>
-	.absolute
-	{position: absolute;
+	.box
+	{position: relative;
 	 border-style: ridge;
+	 width: 280px
 	}
 
-	.relative
-	{position:relative;
-	height: 70px;
-	top: 180px;
-	left: 180px;	
+	.ribbon
+	{position:absolute;
+	top: 170px;
+	left: 200px;	
 	}
+
+	p{color:silver}
 
 </style>
 <body>
 	<div>
-	<img src="images/powerb.jpeg" class="absolute">
-	<img src="images/despacho.png" class="relative">
+		<div class="box">
+			<img src="images/powerb.jpeg" alt="Batería portatil">
+
+		<div class="ribbon">
+			<img src="images/despacho.png" alt="Despacho en menos de 48 horas" style="
+			height: 70px;">
+			</div>
 	</div>
 
-	<div style="clear:left; float: left;">
-	<p>Energy Extra Batería 10000MaH
-	</p>
+	<p>Energy Extra Batería 10000MaH</p>
 	</div>
-
-	<div>
-		
-		<h1>ayudaaaaa</h1>
-	</div>
-
-
-
-
-
 
 </body>
 </html>
