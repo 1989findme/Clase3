@@ -1,0 +1,54 @@
+body{
+margin: 0px;
+font-family:arial;
+}
+
+.header
+{
+width: 100%;
+float: top;
+height: 60px;
+background-color: black;
+color: white;
+margin: 0px; 
+padding top:5px;
+}
+
+.aside
+{
+width: 20%;
+height:155px;
+background-color:#DCDCDC;
+margin:0px;
+float:left;
+padding: 0px;
+text-align: center;
+}
+
+li
+{
+color: blue;
+}
+
+.body
+{
+width:80%;
+height: 155px;
+float: right;
+background-color: white; 
+padding-left:0px;
+margin: 0px;
+;
+
+}
+.footer
+{
+width: 100%;
+background-color: grey;
+margin: 0px;
+padding: 0px;
+float: bottom;
+text-align: center;
+color:white;
+
+}

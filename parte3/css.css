@@ -1,0 +1,152 @@
+.España
+{float: left;
+position:relative;
+border-style: solid;
+border-width: 1px;
+margin: 15px 50px 15px 50px;
+}
+
+.EspañaR
+{
+height: 200px;
+width: 300px;
+background-color: red;
+}
+
+.EspañaY
+{
+height: 80px;
+width:300px;
+background-color: yellow;
+position: absolute;
+top:60px;
+}
+
+.españa
+{
+position: relative;
+float: left;
+
+}
+.Dinamarca
+{position: relative;
+float:left;
+border-style: solid;
+border-width: 1px;
+margin: 15px 50px 15px 50px;
+}
+
+.DinamarcaR
+{
+height: 200px;
+width: 300px;
+background-color: red;
+}
+
+.DinamarcaWV
+{
+height: 200px;
+width:20px;
+background-color: white;
+position: absolute;
+bottom: 0px;
+left:90px;
+}
+
+.DinamarcaWO
+{
+height: 20px;
+width:300px;
+background-color: white;
+position: absolute;
+top: 90px;
+}
+
+.dinamarca
+{
+position: relative;
+float: left;	
+}
+
+.EmiratosArabes
+{
+float: left;
+clear:both;
+position:relative;
+border-style: solid;
+border-width: 1px;
+margin: 15px 50px 15px 50px;
+
+}
+.EmiratosArabesR
+{height: 200px;
+width: 300px;
+background-color: red;
+
+}
+.EmiratosArabesG
+{
+height: 67px;
+width: 220px;
+background-color: green;
+position: absolute;
+top: 0px;
+right: 0px;
+}
+.EmiratosArabesW
+{
+height: 67px;
+width: 220px;
+background-color: white;
+position: absolute;
+top: 67px;
+right: 0px;
+}
+.EmiratosArabesB
+{
+height: 67px;
+width: 220px;
+background-color: black;
+position: absolute;
+bottom: 0px;
+right: 0px;
+}
+
+.emiratosarabes
+{
+position: relative;
+float: left;	
+}
+
+.Japón
+{
+float: left;
+position:relative;
+border-style: solid;
+border-width: 1px;
+margin: 15px 50px 15px 50px;
+}
+
+.JapónW
+{height: 200px;
+width: 300px;
+background-color: white
+}
+
+.JapónR
+{
+height: 80px; 
+width: 80px;
+border-radius: 50px;
+background-color: red;
+position: absolute;
+bottom:60px;
+left: 110px;
+}
+
+.japón
+{
+position: relative;
+float: left;	
+}
+

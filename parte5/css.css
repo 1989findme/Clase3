@@ -1,0 +1,17 @@
+.box
+{
+position: relative;
+border-style: ridge;
+width: 230px
+}
+
+.ribbon
+{
+position:absolute;
+top: 0px;	
+}
+
+p
+{
+color:silver
+}

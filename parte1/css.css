@@ -1,0 +1,35 @@
+.box
+{
+height: 100px;
+margin:  5px;
+background-color: gray;
+}
+
+.box25
+{
+height: 250px;
+width: 25%;
+border-style: solid;
+border-width: : 5px;
+border-color: red;
+background-color: blue;
+float:left;
+box-sizing: border-box;
+text-align: center;
+}
+
+img
+{
+width: 250px; 
+height:150px;
+}
+
+.fixed
+{
+width: 100%;
+position: fixed;
+background-color: silver;
+height: 100px;
+top:0px ;
+float: left;
+}
